@@ -17,7 +17,7 @@ public class BukuMain19 {
         bk2.terjual(11);
         bk2.tampilInformasi();
 
-        Buku19 bkFarhan = new Buku19("Gadis Kretek", "Fauziyyah", 200,10,90000);
+        Buku19 bkFarhan = new Buku19("Pagi yang cerah", "Farhan", 200,10,90000);
         bkFarhan.terjual(1);
         bkFarhan.tampilInformasi();
     }
